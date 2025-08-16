@@ -86,6 +86,7 @@ def schedule(Users):
         time.sleep(60)
 
 
+
 if __name__ == "__main__":
     Alex = User("Alex", date(2025, 9, 1), date(2025, 9, 1))
     Sergey = User("Sergey", date(2025, 9, 1), date(2025, 9, 1))
